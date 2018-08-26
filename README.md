@@ -1,0 +1,2 @@
+# Spock-Practice
+# HaskellPractice
